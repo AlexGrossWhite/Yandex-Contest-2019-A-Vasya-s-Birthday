@@ -1,0 +1,15 @@
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\bin\Debug\net7.0\Vasya's Birthday.exe
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\bin\Debug\net7.0\Vasya's Birthday.deps.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\bin\Debug\net7.0\Vasya's Birthday.runtimeconfig.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\bin\Debug\net7.0\Vasya's Birthday.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\bin\Debug\net7.0\Vasya's Birthday.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.csproj.AssemblyReference.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.AssemblyInfoInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.AssemblyInfo.cs
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\refint\Vasya's Birthday.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\Vasya's Birthday.genruntimeconfig.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\Vasya's Birthday\Vasya's Birthday\obj\Debug\net7.0\ref\Vasya's Birthday.dll
